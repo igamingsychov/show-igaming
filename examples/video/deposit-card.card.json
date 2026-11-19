@@ -1,0 +1,86 @@
+{
+ "id": "deposit-card",
+ "title": {
+  "ru": "Как пополнить счет картой",
+  "uk": "Як поповнити рахунок карткою",
+  "en": "How to deposit with a card"
+ },
+ "languages": [
+  "ru",
+  "uk",
+  "en"
+ ],
+ "steps": [
+  {
+   "ru": "На главном экране нажми Пополнить",
+   "uk": "На головному екрані натисни Поповнити",
+   "en": "On the home screen, tap Deposit"
+  },
+  {
+   "ru": "Выбери Банковская карта",
+   "uk": "Обери Банківська картка",
+   "en": "Choose Bank card"
+  },
+  {
+   "ru": "Выбери сумму, например 50 €",
+   "uk": "Обери суму, наприклад 50 €",
+   "en": "Pick an amount, for example €50"
+  },
+  {
+   "ru": "Нажми Продолжить",
+   "uk": "Натисни Продовжити",
+   "en": "Tap Continue"
+  },
+  {
+   "ru": "Введи номер карты, срок и CVC",
+   "uk": "Введи номер картки, термін і CVC",
+   "en": "Enter the card number, expiry date and CVC"
+  },
+  {
+   "ru": "Нажми Оплатить 50 €",
+   "uk": "Натисни Сплатити 50 €",
+   "en": "Tap Pay €50"
+  },
+  {
+   "ru": "Дождись подтверждения банка: деньги сразу на балансе",
+   "uk": "Дочекайся підтвердження банку: гроші одразу на балансі",
+   "en": "Wait for the bank to confirm: your balance updates instantly"
+  }
+ ],
+ "questions": {
+  "ru": [
+   "Как пополнить картой?",
+   "Где кнопка пополнения?",
+   "Как внести депозит?"
+  ],
+  "uk": [
+   "Як поповнити карткою?",
+   "Де кнопка поповнення?",
+   "Як внести депозит?"
+  ],
+  "en": [
+   "How do I deposit with a card?",
+   "Where is the deposit button?",
+   "How do I add money?"
+  ]
+ },
+ "operator_reply": {
+  "ru": "Вот короткое видео, как пополнить счет картой, все шаги на экране. Если что-то пойдет не так, напиши, разберемся.",
+  "uk": "Ось коротке відео, як поповнити рахунок карткою, усі кроки на екрані. Якщо щось піде не так, напиши, розберемося.",
+  "en": "Here is a short video on how to deposit with a card, every step is on screen. If anything goes wrong, just write to us."
+ },
+ "topic": "deposit",
+ "recorded": "2026-11-19",
+ "source_sha1": {
+  "ru": "8f839691acd8",
+  "uk": "97292ca81d10",
+  "en": "507da60c4c31"
+ },
+ "duration_sec": 28.6,
+ "brand": "brand-default.json",
+ "files": {
+  "ru": "deposit-card.ru.mp4",
+  "uk": "deposit-card.uk.mp4",
+  "en": "deposit-card.en.mp4"
+ }
+}

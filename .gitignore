@@ -1,0 +1,9 @@
+# examples: публичны только эти примеры, остальное (рабочие папки, записи сайтов) не публикуется
+/examples/*
+!/examples/steps-example.json
+!/examples/demo-site/
+!/examples/brand-light/
+!/examples/video/
+__pycache__/
+*.pyc
+.DS_Store
